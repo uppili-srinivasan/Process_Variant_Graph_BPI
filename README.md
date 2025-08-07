@@ -138,7 +138,3 @@ Ensure **Graphviz** is installed on your system:
 - [BPI Challenge Datasets](https://data.4tu.nl/articles/dataset/BPI_Challenge_2017/12696884)  
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
